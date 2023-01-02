@@ -1,0 +1,45 @@
+.snake{
+    background-color: yellow;
+}
+.no-snake{
+    background-color:skyblue;
+}
+.feed{
+    background-color:darkred;
+}
+.button{
+    background-color:black;
+    color:white;
+    width:100px;
+    height:25px;
+}
+input{
+    width:25%;
+}
+#msg{
+    position:absolute;
+    transform:translate(-50%,-50%);
+    top:50%;
+    left:50%;
+    width:200px;
+    height:100px;
+    color:white;
+    background:black;
+    padding:10px;
+}
+p .msg{
+    font-weight:bold;
+}
+#ok{
+    width:60px;
+    height:25px;
+}
+.show{
+    display:block;
+}
+.hide{
+    display:none;
+}
+.lightgray{
+    background-color:lightgray;
+}
